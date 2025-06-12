@@ -2,10 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-
-Leveraging RTA data and Street View imagery to validate and improve road safety.
-
+# Leveraging RTA data and Street View imagery to validate and improve road safety.
 
 ## Summary
 
