@@ -28,8 +28,6 @@ The output of the analysis could be used in a number of ways:
 * specific recommendations regarding current approaches to road design could be made, with data made available on a compartive basis (so that, for example, a new road layout could be actively compared with similar examples globally)
 * longitudinal analysis could be taken in the longer term, to validate or refute measures targeted at safety improvement.
 
-```
-
 
 ## Data sources and AI methods
 I envisage two fundamental sources of data for this project: satellite imaging and street view data, such as Google maps, and international road traffic accident statistics.  No dedicated data collection should be required.
@@ -42,7 +40,7 @@ Some initial effort will be required to collate site-specific road data and allo
 
 ## What next?
 
-Once the initial analysis is completed, ongoing updates would provide a longitudinal study which would provide better information regarding  seasonal variations, time of day variation, as well as confirming or rejecting the anticipated road safety improvements arising from ongoing engineering updates and improvements.
+Once the initial analysis is completed, ongoing updates would provide a longitudinal study which would provide better information regarding  seasonal variations, time of day variation, as well as confirming or rejecting the anticipated road safety improvements arising from ongoing engineering updates and improvements.  In addition, the facility could be utilised to prototype proposed changes to road layouts, signage, speed limits, et cetera, in order to becnhmark them against similar contexts elsewhere in the world, and therefore predict likely impacts, before they are deployed.
 
 
 ## Acknowledgments
