@@ -46,10 +46,16 @@ Once the initial analysis is completed, ongoing updates would provide a longitud
 ## Acknowledgments
 
 *Ito, K.; Biljecki, F. (2021). "Assessing bikeability with street view imagery and computer vision". Transportation Research Part C: Emerging Technologies. 132: 103371.
+
 *Biljecki, F.; Ito, K. (2021). "Street view imagery in urban analytics and GIS: A review". Landscape and Urban Planning. 215: 104217.
+
 *Ackerman, Dan (May 30, 2017). "Google Maps Street View celebrates its 10th birthday". CNET.
+
 *https://etsc.eu/euroadsafetydata/
+
 *https://www.itf-oecd.org/road-safety-annual-report-2024
+
 *https://irap.org/rap-tools/crash-data/crash-risk-mapping/
+
 
 
